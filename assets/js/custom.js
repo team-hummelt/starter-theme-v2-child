@@ -1,5 +1,7 @@
-(function ($) {
+document.addEventListener("DOMContentLoaded", function () {
+    (function ($) {
 
-    // Do stuff here
+        // Do stuff here
 
-})(jQuery); // jQuery End
+    })(jQuery); // jQuery End
+});
